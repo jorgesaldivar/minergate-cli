@@ -1,5 +1,7 @@
-# minergate-cli
+# minergate-cli 
 Dockerfile for minergate-cli
+Image location : https://hub.docker.com/r/j7saldivar/minergate-cli/
+
 
 Build Dockerfile and push it to the hub commands:
 
